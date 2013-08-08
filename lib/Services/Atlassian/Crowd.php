@@ -39,11 +39,6 @@
  */
 
 /**
- * Exception used to incidate a problem with the Crowd server.
- */
-require_once 'Services/Atlassian/Crowd/Exception.php';
-
-/**
  * Class to use Crowd API from PHP
  * 
  * @category  Services

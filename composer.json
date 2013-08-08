@@ -3,10 +3,11 @@
     "homepage": "https://github.com/smurfy/AtlassianServicesCrowd",
     "type": "library",
     "require": {
-        "php": ">=5.3.0"
+        "php": ">=5.3.0",
+        "pear/pear_exception": "dev-master"
     },
     "autoload": {
-        "psr-0": { "Services_Atlassian_" : "lib/Services/Atlassian" }
+        "psr-0": { "Services_Atlassian_" : "lib" }
     }
 }
 

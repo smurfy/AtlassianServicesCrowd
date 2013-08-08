@@ -32,11 +32,6 @@
  */
 
 /**
- * PEAR Exception handler and base class
- */
-require_once 'PEAR/Exception.php';
-
-/**
  * Services_Atlassian_Crowd_Exception
  *
  * @category  Services
