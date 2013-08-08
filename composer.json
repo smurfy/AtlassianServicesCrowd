@@ -7,7 +7,6 @@
     },
     "autoload": {
         "psr-0": { "Services_Atlassian_" : "lib/Services/Atlassian" }
-    },
-    "target-dir": "Smurfy/AtlassianServicesCrowd"
+    }
 }
 
